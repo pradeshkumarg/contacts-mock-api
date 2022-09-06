@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "email": "george.bluth@reqres.in",
+      "avatar": "https://reqres.in/img/faces/1-image.jpg",
+      "name": "George Bluth"
+    },
+    {
+      "id": "2",
+      "email": "janet.weaver@reqres.in",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "name": "Janet Weaver"
+    },
+    {
+      "id": "3",
+      "email": "emma.wong@reqres.in",
+      "avatar": "https://reqres.in/img/faces/3-image.jpg",
+      "name": "Emma Wong"
+    },
+    {
+      "id": "5",
+      "email": "charles.morris@reqres.in",
+      "avatar": "https://reqres.in/img/faces/5-image.jpg",
+      "name": "Charles Morr"
+    },
+    {
+      "id": "691b317c-a0a4-4199-8391-852454112bab",
+      "name": "Pradesh Kumar",
+      "avatar": "https://pradesh-kumar.github.io/img/profile.jpeg",
+      "email": "abc@xyz.com"
+    },
+    {
+      "id": "ad345d82-b333-4023-a288-d9ab7a8389ca",
+      "name": "test",
+      "email": "test"
+    }
+  ]
+}
